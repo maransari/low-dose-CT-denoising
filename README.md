@@ -17,3 +17,7 @@ DRL_Edge_Perceptual_mse.py similar to DRL_Edge network wih the joint objective f
 
 
 
+[1] M. Gholizadeh-Ansari, J. Alirezaie, and P. Babyn, “Low-dose CT
+denoising with dilated residual network,” in 2018 40th Annual International
+Conference of the IEEE Engineering in Medicine and Biology
+Society (EMBC). IEEE, 2018, pp. 5117–5120.
